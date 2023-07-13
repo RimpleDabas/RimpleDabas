@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
@@ -45,3 +46,6 @@ I have backgroung in reserch, data analysis and teaching. I have Masters degree 
 
 
 
+=======
+Hello , I am Rimple. I have Masters degree in Physics and Optics. I have background in teaching , data analysis and research. I am currently enrolled in data analytics course at UofT. 
+>>>>>>> 3a2b95645007e267fd75bfc7abcc0670bf83c098

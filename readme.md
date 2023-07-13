@@ -25,18 +25,21 @@ I have backgroung in reserch, data analysis and teaching. I have Masters degree 
 - :e-mail: You can reach me at: rimpledabas@gmail.com
 
 ### ⚒️ Languages and Tools :
-<div>
-  <img src="./Images/Python.png" title="Python" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="./Images/Mysql.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="./Images/javascript.png" title="Javascript" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="./Images/html.png" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="./Images/css.png" title="css" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="./Images/beautiful soup.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="./Images/postgres.jpg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="./Images/mongo.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="./Images/api.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  
- 
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"  alt="python" width="40" height="40"/> </a>  
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" title="D3.js"  alt="d3js" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"  alt="Flask" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3"  alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5"  alt="html5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"  alt="javascript" width="40" height="40"/> </a>
+     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" title="Chart.js"  alt="chartjs" width="40" height="40"/> </a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="mongodb" width="40" height="40"/> </a>
+       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="mysql" width="40" height="40"/> </a> 
+       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas"  alt="pandas" width="40" height="40"/> </a>
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="postgresql" width="40" height="40"/> </a> 
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn"  alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="Tensorflow"  alt="tensorflow" width="40" height="40"/> </a>  </a> 
+         <a href="https://code.visualstudio.com/docs/?dv=osx" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" title="Visual Studio Code"  alt="Visual Studio Code" width="40" height="40"/> </a> <a href="https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/raw/master/icons/tableau-icon.svg" title="Tableau" alt="Tableau" width="40" height="40"/> </a>  <a href="https://spark.apache.org/docs/latest/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Spark" alt="Spark" width="40" height="40"/> </a>  </p>
+
+
+
 ---
 
 ### :fire: My Stats :

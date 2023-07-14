@@ -16,7 +16,7 @@
 </div>
 
 ### About Me :
-I have backgroung in reserch, data analysis and teaching. I have Masters degree in Physics and I am currently enrolled in Data Analytics bootcamp at University of Toronto
+I have background in research, data analysis and teaching. I have Masters degree in Physics and I am currently enrolled in Data Analytics bootcamp at University of Toronto
 - :seedling: I enjoy coding, reading and learning new things.
 - 👩‍💻currently exploring machine learning
 

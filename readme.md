@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="<iframe src="https://gifer.com/embed/75ez" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>" width="100"/>
+  <img src="[<iframe src="https://gifer.com/embed/75ez" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>](https://i.gifer.com/75ez.gif)" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/rimple-poonia-dabas-ba968b206/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

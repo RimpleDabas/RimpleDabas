@@ -16,7 +16,7 @@
 </div>
 
 ### About Me :
-I have background in research, data analysis and teaching. I have Masters degree in Physics and technology.I am Data Analytics and Visualization  bootcamp graduste from University of Toronto
+I have background in research, data analysis and teaching. I have Masters degree in Physics and Technology.I am Data Analytics and Visualization bootcamp graduate from University of Toronto
 - :seedling: I enjoy coding,Working with BI tools, reading and learning new things.
 - 👩‍💻currently exploring machine learning
 

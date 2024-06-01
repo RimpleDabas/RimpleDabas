@@ -23,7 +23,7 @@ I have background in research, data analysis and teaching.
 
 - :zap: In my free time, I love making stuff with crochet
 
-- :e-mail: You can reach me at: rimpledabas@gmail.com
+
 
 ### ⚒️ Languages and Tools :
 <p align="left"> 
